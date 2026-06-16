@@ -18,7 +18,12 @@ Detailed-oriented BI Data Expert focused on building scalable, production-ready 
 * **Key Achievement:** Implemented advanced SQL Window Functions for product ranking and automated orchestration using `databricks.yml`.
 * ** [View Project Repository](https://github.com/bagsju/brazilian-ecommerce)**
 
-### 2. IT Help Desk Operational & SLA Pipeline (In Progress)
+### 2. ATS-Friendly IT CV Builder (Live Demo)
+* **Core Tech:** React, Vite, Tailwind CSS, Vercel
+* **Description:** A privacy-first, client-side web application for generating ATS-friendly CVs tailored for the Polish Tech market. Features dynamic color theming and live layout switching (1-column vs 2-column) with **Zero Data Retention** (no backend, 100% secure).
+* ** [Try the Live App Here](https://cv-builder-app-ten.vercel.app)** | **[View Source Code](https://github.com/bagsju/cv-builder-app)**
+  
+### 3. IT Help Desk Operational & SLA Pipeline (In Progress)
 * **Core Tech:** PySpark, SQL, Delta Lake, Slowly Changing Dimensions (SCD Type 2)
 * **Description:** An operational analytics pipeline focusing on IT service management, ticket lifecycles, and Service Level Agreement (SLA) breach tracking.
 * ** [Repository Coming Soon](#)**
